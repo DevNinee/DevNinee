@@ -2,6 +2,8 @@
   <img src="https://profile-counter.glitch.me/DevNinee/count.svg?"  />
 </div>
 
+<p align="center">Hi there 👋 i am Erick Voyager 💻👾 Web Developer</p>
+
 ###
 
 <div align="left">
@@ -51,7 +53,6 @@
 
 ###
 
-<p align="center">Hi there 👋 i am Erick Voyager 💻👾 Web Developer</p>
 
 
   
