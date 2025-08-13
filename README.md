@@ -1,5 +1,5 @@
 
-### <p align="center">Hi there 👋 i am Erick Voyager 💻👾 Web Developer</p>
+### <p align="center">Hi there 👋 i am Erick Dos Santos 💻👾 Web Developer</p>
 
 ###
 
